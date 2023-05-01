@@ -30,6 +30,8 @@
 
 Решение
 ![alt text] (https://disk.yandex.ru/i/39GT8Ip1TwZbYw)
+![1](https://user-images.githubusercontent.com/110088987/235436279-fd5cc35a-0bd1-47ef-9656-a92d6b80ae8d.jpg)
+
 
 ## Задача 2
 
