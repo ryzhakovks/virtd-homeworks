@@ -55,9 +55,9 @@
 
 Чтобы получить зачёт, вам нужно предоставить вывод команды "docker ps" , все контейнеры, описанные в [docker-compose](https://github.com/netology-group/virt-homeworks/blob/virt-11/05-virt-04-docker-compose/src/ansible/stack/docker-compose.yaml),  должны быть в статусе "Up".
 
-Решение ![alt text] (https://disk.yandex.r![3]
-(https://user-images.githubusercontent.com/110088987/235436346-69b56dcd-5e13-4be9-b865-79952591ba87.png)
-u/i/Z_3PjdswaTfYKA)
+Решение 
+![3](https://user-images.githubusercontent.com/110088987/235436512-6f9fe549-06f1-4ee9-a5f0-d5083c7acc4f.png)
+
 
 
 ## Задача 4
@@ -74,9 +74,9 @@ u/i/Z_3PjdswaTfYKA)
   <img width="1200" height="600" src="./assets/yc_02.png">
 </p>
 
-Решение ![alt text] (https://disk.yand![4](https://user-images.githubusercontent.com/110088987/235436403-9edd76bf-81ff-4704-8962-dd3e37a7db45.png)
-ex.ru/i/1WczEFcJykyhAA)
+Решение
 
+![4](https://user-images.githubusercontent.com/110088987/235436544-9cbb519c-3dfe-4f4a-b2d5-af8afb427819.png)
 
 ## Задача 5 (*)
 
