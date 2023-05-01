@@ -40,6 +40,9 @@
 Используйте Terraform-код в директории ([src/terraform](https://github.com/netology-group/virt-homeworks/tree/virt-11/05-virt-04-docker-compose/src/terraform)).
 
 Чтобы получить зачёт, вам нужно предоставить вывод команды terraform apply и страницы свойств, созданной ВМ из личного кабинета YandexCloud.
+Решение
+![alt text] (https://disk.yandex.ru/i/XXVYk-8X7y6tEg)
+
 
 ## Задача 3
 
@@ -47,6 +50,9 @@
 Используйте Ansible-код в директории ([src/ansible](https://github.com/netology-group/virt-homeworks/tree/virt-11/05-virt-04-docker-compose/src/ansible)).
 
 Чтобы получить зачёт, вам нужно предоставить вывод команды "docker ps" , все контейнеры, описанные в [docker-compose](https://github.com/netology-group/virt-homeworks/blob/virt-11/05-virt-04-docker-compose/src/ansible/stack/docker-compose.yaml),  должны быть в статусе "Up".
+
+Решение ![alt text] (https://disk.yandex.ru/i/Z_3PjdswaTfYKA)
+
 
 ## Задача 4
 
@@ -61,6 +67,8 @@
 <p align="center">
   <img width="1200" height="600" src="./assets/yc_02.png">
 </p>
+
+Решение ![alt text] (https://disk.yandex.ru/i/1WczEFcJykyhAA)
 
 ## Задача 5 (*)
 
