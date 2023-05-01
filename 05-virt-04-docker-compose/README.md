@@ -29,7 +29,7 @@
 Чтобы получить зачёт, вам нужно предоставить скриншот страницы с созданным образом из личного кабинета YandexCloud.
 
 Решение
-![alt text](https://disk.yandex.ru/i/39GT8Ip1TwZbYw)
+![alt text] (https://disk.yandex.ru/i/39GT8Ip1TwZbYw)
 
 ## Задача 2
 
