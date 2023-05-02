@@ -73,5 +73,4 @@ docker swarm update --autolock=true
 Есть возможность ограничить доступ как одноразово (docker swarm init --autolock) так и постоянно (docker swarm init --autolock=true).
 Для разблокировки требуется ввести docker swarm unlock и ключ расшифровки журналов RAFT
 docker swarm unlock-key - показать ключ
- docker swarm unlock-key --rotate - обнолвление времени жизни ключа
-
+ docker swarm unlock-key --rotate - обнолвление времени жизни 
